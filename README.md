@@ -1,2 +1,10 @@
 # disk-scheduling
-disk scheduling algorithms android app
+Disk scheduling algorithms android app.
+Implemented algorithms:
+- C Look
+- C Scan
+- FCFS
+- Look
+- Scan
+- SSFT
+
